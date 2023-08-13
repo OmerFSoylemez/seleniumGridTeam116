@@ -31,5 +31,5 @@ public class Grid_03 {
     void test06() {
         driverManage.setUpEdgeDriver().get("https://www.wisequarter.com");
     }
-
+    //
 }
